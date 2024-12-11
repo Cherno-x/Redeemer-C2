@@ -1,0 +1,11 @@
+[package]
+name = "implant"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+github = { path = "../github" }
+coff = { path = "../coff" }
+tokio = { version = "1.40.0", features = ["full"] }
+get_if_addrs = "0.5.3"
+

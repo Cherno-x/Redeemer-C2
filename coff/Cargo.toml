@@ -1,0 +1,8 @@
+[package]
+name = "coff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+coffee-ldr = "0.1.3"
+eyre = "0.6.12"
