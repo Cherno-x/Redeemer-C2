@@ -62,9 +62,9 @@ async fn main(){
 
     //配置
     let github_config = github::GithubConfig {
-        access_token: String::from("ghp_xxxxxxxxxx"),
-        username: String::from("kxxxxxxxx"),
-        repository: String::from("demo"),
+        access_token: String::from("xxx_xxxxxxxxxx"),
+        username: String::from("xxxxxx"),
+        repository: String::from("xxxx"),
     };
 
     //生成implant_id
