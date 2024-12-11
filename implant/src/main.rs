@@ -62,8 +62,8 @@ async fn main(){
 
     //配置
     let github_config = github::GithubConfig {
-        access_token: String::from("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"),
-        username: String::from("killjapandog"),
+        access_token: String::from("ghp_xxxxxxxxxx"),
+        username: String::from("kxxxxxxxx"),
         repository: String::from("demo"),
     };
 
