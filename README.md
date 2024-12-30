@@ -1,4 +1,5 @@
 https://bbs.kanxue.com/thread-284782.htm
+
 Redeemer C2是一款使用Rust编写的平台型C2，旨在滥用可信域名的API平台进行命令控制，用来对抗恶意域名巡查，是一款专注于权限维持的C2工具。
 
 目前已经支持的平台
